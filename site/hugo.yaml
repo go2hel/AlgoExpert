@@ -1,0 +1,12 @@
+baseURL: "https://go2hel.github.io/AlgoExpert/"
+languageCode: "en-us"
+title: "AlgoExpert Question solutions"
+theme: "PaperMod"
+paginate: 10
+
+params:
+  author: "Yash Gohel"
+  description: "A Hugo site powered by PaperMod theme"
+  enableDarkMode: true
+  showReadingTime: true
+  enableGitInfo: true
